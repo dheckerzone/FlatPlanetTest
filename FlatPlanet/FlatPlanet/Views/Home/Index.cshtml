@@ -1,0 +1,7 @@
+﻿@model FlatPlanet.Data.Models.ClickCounter
+
+@using (Html.BeginForm("Count", "Home", FormMethod.Post))
+{
+    <h1>@Html.Label(Model.Counter.ToString())</h1>
+    <input type="submit" value="Count to Ten" class="btn btn-primary btn-lg"/>
+}

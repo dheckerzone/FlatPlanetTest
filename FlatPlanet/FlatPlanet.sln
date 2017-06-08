@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatPlanet", "FlatPlanet\FlatPlanet.csproj", "{B9ECEF9D-6557-4C3E-8A72-025F3EDF72E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatPlanet.Data", "..\FlatPlanet.Data\FlatPlanet.Data.csproj", "{E8C66A3F-12E2-488E-A256-FFACFCE3F951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9ECEF9D-6557-4C3E-8A72-025F3EDF72E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ECEF9D-6557-4C3E-8A72-025F3EDF72E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ECEF9D-6557-4C3E-8A72-025F3EDF72E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ECEF9D-6557-4C3E-8A72-025F3EDF72E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C66A3F-12E2-488E-A256-FFACFCE3F951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C66A3F-12E2-488E-A256-FFACFCE3F951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C66A3F-12E2-488E-A256-FFACFCE3F951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C66A3F-12E2-488E-A256-FFACFCE3F951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
